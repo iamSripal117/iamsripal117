@@ -1,6 +1,6 @@
 Hi, I'm Sripal Rakkireddy
 
-Computer Science Graduate | Full Stack Developer | Python & SQL Enthusiast
+Computer Science Graduate | Full Stack Developer | Python & SQL 
 
 I am a B.Tech graduate in Computer Science and Engineering with hands-on experience in building full-stack and data-driven applications. I have developed projects using HTML, CSS, JavaScript for frontend and Python frameworks like Flask, Django, and FastAPI for backend, along with MySQL and SQLite for database management.
 
